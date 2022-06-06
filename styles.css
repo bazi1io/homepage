@@ -11,9 +11,9 @@ body {
     --primary-text-color: #181820;
     --secondary-text-color: #5c5c62;
     --durability-text-color: #6a737d9c;
-    --icon-color: #6a737d;
-    --border-color: #ff9a0045;
-    --text-decoration-color: #ff9a00;
+    --icon-color: #5804ff;
+    --border-color: #5804ff45;
+    --text-decoration-color: #5804ff;
 }
 
 .container {
